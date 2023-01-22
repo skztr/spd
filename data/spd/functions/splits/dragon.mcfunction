@@ -1,0 +1,2 @@
+function spd:splits/actionbar
+title @s actionbar {"text":"","color":"gray","extra":[{"text":"dragon","color":"dark_purple"},{"text":" ["},{"score":{"name":"@s","objective":"s_t_dragon_h"}},{"text":"h"},{"score":{"name":"@s","objective":"s_t_dragon_m"}},{"text":"m"},{"score":{"name":"@s","objective":"s_t_dragon_s"}},{"text":"s] / "},{"score":{"name":"@s","objective":"s_s_dragon_h"}},{"text":"h"},{"score":{"name":"@s","objective":"s_s_dragon_m"}},{"text":"m"},{"score":{"name":"@s","objective":"s_s_dragon_s"}},{"text":"s]"}]}

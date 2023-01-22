@@ -1,0 +1,2 @@
+function spd:splits/actionbar
+title @s actionbar {"text":"","color":"gray","extra":[{"text":"stronghold","color":"dark_gray"},{"text":" ["},{"score":{"name":"@s","objective":"s_t_stronghold_h"}},{"text":"h"},{"score":{"name":"@s","objective":"s_t_stronghold_m"}},{"text":"m"},{"score":{"name":"@s","objective":"s_t_stronghold_s"}},{"text":"s] / "},{"score":{"name":"@s","objective":"s_s_stronghold_h"}},{"text":"h"},{"score":{"name":"@s","objective":"s_s_stronghold_m"}},{"text":"m"},{"score":{"name":"@s","objective":"s_s_stronghold_s"}},{"text":"s]"}]}

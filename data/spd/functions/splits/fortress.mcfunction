@@ -1,0 +1,2 @@
+function spd:splits/actionbar
+title @s actionbar {"text":"","color":"gray","extra":[{"text":"fortress","color":"dark_red"},{"text":" ["},{"score":{"name":"@s","objective":"s_t_fortress_h"}},{"text":"h"},{"score":{"name":"@s","objective":"s_t_fortress_m"}},{"text":"m"},{"score":{"name":"@s","objective":"s_t_fortress_s"}},{"text":"s / "},{"score":{"name":"@s","objective":"s_s_fortress_h"}},{"text":"h"},{"score":{"name":"@s","objective":"s_s_fortress_m"}},{"text":"m"},{"score":{"name":"@s","objective":"s_s_fortress_s"}},{"text":"s]"}]}
