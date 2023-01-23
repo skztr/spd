@@ -25,3 +25,10 @@ scoreboard players set #spd_global spd_depends_ripcoord 0
 scoreboard players set #spd_global spd_depends_seeder 0
 scoreboard players set #spd_global spd_depends_splits 0
 scoreboard players set #spd_global spd_init 0
+
+# pause time until init completes
+gamerule doDaylightCycle false
+gamerule doFireTick false
+gamerule doMobSpawning false
+gamerule doWeatherCycle false
+gamerule randomTickSpeed 0
