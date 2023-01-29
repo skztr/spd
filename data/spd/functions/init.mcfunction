@@ -1,5 +1,6 @@
 gamerule commandBlockOutput true
 gamerule sendCommandFeedback true
+gamerule reducedDebugInfo true
 
 scoreboard objectives add spd_join dummy
 scoreboard objectives add spd_quit minecraft.custom:minecraft.leave_game
